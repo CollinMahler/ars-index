@@ -972,7 +972,7 @@
   {
     "title": "Blunky Production Drawing",
     "url": "/blunky-production-drawing",
-    "image": "https://images.squarespace-cdn.com/content/v1/696e7f9b5a5d6f32257f6443/09ecfc18-ecc2-4c96-8181-66c41e6951d4/PM_NPM_BLINKY_BB-6_Cel.png",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/697af68e9c03b33d9d005397/1769666190127/PM_NPM_BLINKY_BB-6_Drawing.png",
     "movie": "Pac-Man",
     "studio": "Hanna-Barbera",
     "year": "1982",
@@ -3441,6 +3441,75 @@
     "year": "",
     "keywords": [
       "nelvana"
+    ]
+  },
+  {
+    "title": "Star Wars: Ewoks (1985 - 1986)",
+    "url": "/star-wars-ewoks-1985-1986",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cf1e0e36a2d3f2e9ecf76/1785524704772/SWE_WW_WILLYWARRICK_L7_Cel.png",
+    "movie": "",
+    "studio": "Nelvana",
+    "year": "1985 - 1986",
+    "keywords": [
+      "star wars: ewoks (1985 - 1986)",
+      "nelvana",
+      "1985 - 1986"
+    ]
+  },
+  {
+    "title": "Widdle "Willy" Warrick Production Drawing",
+    "url": "/widdle-willy-warrick-production-drawing",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cf625520f4b6950cde418/1785525797472/SWE_WW_WILLYWARRICK_L7_Drawing.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "widdle "willy" warrick production drawing",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
+    "title": "Widdle "Willy" Warrick Production Cel",
+    "url": "/widdle-willy-warrick-production-cel",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cf1e0e36a2d3f2e9ecf76/1785524704772/SWE_WW_WILLYWARRICK_L7_Cel.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "widdle "willy" warrick production cel",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
+    "title": "King Gorneesh Production Drawing",
+    "url": "/king-gorneesh-production-drawing",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cf8a1ec933d2700cbc77c/1785526433144/SWE_WW_KINGGORNEESH_K14_Drawing.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "king gorneesh production drawing",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
+    "title": "King Gorneesh Production Cel",
+    "url": "/king-gorneesh-production-cel",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cfa39c2f1454290ccdccc/1785526841720/SWE_WW_KINGGORNEESH_K14_Cel.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "king gorneesh production cel",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
     ]
   }
 ]
