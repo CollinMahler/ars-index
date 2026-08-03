@@ -3446,7 +3446,7 @@
   {
     "title": "Star Wars: Ewoks (1985 - 1986)",
     "url": "/star-wars-ewoks-1985-1986",
-    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cf1e0e36a2d3f2e9ecf76/1785524704772/SWE_WW_WILLYWARRICK_L7_Cel.png",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a710c02dfb3fa36ce3b200b/1785793538461/SWE_WW_WILLYWARRICK_L7_WEECHEEWARRICK_C20_CelSetup.png",
     "movie": "",
     "studio": "Nelvana",
     "year": "1985 - 1986",
@@ -3471,6 +3471,34 @@
     ]
   },
   {
+    "title": "Weechee Warrick Production Drawing",
+    "url": "/weechee-warrick-production-drawing",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a7106dc4b397f3094a79a5a/1785792220688/SWE_WW_WEECHEEWARRICK_C20_Drawing.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "weechee warrick production drawing",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+   {
+    "title": "Willy Warrick / Weechee Warrick Production Cel Setup",
+    "url": "/widdle-willy-warrick-weechee-warrick-production-cel-setup",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a710c02dfb3fa36ce3b200b/1785793538461/SWE_WW_WILLYWARRICK_L7_WEECHEEWARRICK_C20_CelSetup.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "widdle willy warrick / weechee warrick production cel setup",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
     "title": "Willy Warrick Production Cel",
     "url": "/widdle-willy-warrick-production-cel",
     "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a6cf1e0e36a2d3f2e9ecf76/1785524704772/SWE_WW_WILLYWARRICK_L7_Cel.png",
@@ -3479,6 +3507,48 @@
     "year": "1985",
     "keywords": [
       "widdle willy warrick production cel",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
+    "title": "Weechee Warrick Production Cel",
+    "url": "/weechee-warrick-production-cel",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a710a37a7049f4405859dc1/1785793079492/SWE_WW_WEECHEEWARRICK_C20_Cel.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "weechee warrick production cel",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
+    "title": "Paploo Production Drawing",
+    "url": "/paploo-production-drawing",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a710445a191f50e9826a534/1785791557222/SWE_WW_PAPLOO_P9_Drawing.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "paploo production drawing",
+      "star wars: ewoks",
+      "nelvana",
+      "1985"
+    ]
+  },
+  {
+    "title": "Paploo Production Cel",
+    "url": "/paploo-production-cel",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a7104ef827a7e1906d3be16/1785791727985/SWE_WW_PAPLOO_P9_Cel.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1985",
+    "keywords": [
+      "paploo production cel",
       "star wars: ewoks",
       "nelvana",
       "1985"
