@@ -3581,5 +3581,33 @@
       "nelvana",
       "1985"
     ]
+  },
+  {
+    "title": "Latara Production Drawing",
+    "url": "/latara-production-drawing",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a712ecdfa598451f100ef00/1785802445590/SWE_TR_LATARA_B25_Drawing.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1986",
+    "keywords": [
+      "latara production drawing",
+      "star wars: ewoks",
+      "nelvana",
+      "1986"
+    ]
+  },
+  {
+    "title": "Latara Production Cel",
+    "url": "/latara-production-cel",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a7130410d5c390062c0fb21/1785802817674/SWE_TR_LATARA_B25_Cel.png",
+    "movie": "Star Wars: Ewoks",
+    "studio": "Nelvana",
+    "year": "1986",
+    "keywords": [
+      "latara production cel",
+      "star wars: ewoks",
+      "nelvana",
+      "1986"
+    ]
   }
 ]
