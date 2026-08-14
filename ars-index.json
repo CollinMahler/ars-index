@@ -1749,7 +1749,8 @@
       "walt disney",
       "1977"
     ]
-  },{
+  },
+  {
     "title": "Penny Production Drawing (131)",
     "url": "/penny-production-drawing-131",
     "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a468535799ece17b51e6fca/1783006517898/TR_Penny_Drawing_131.png",
@@ -1761,6 +1762,33 @@
       "the rescuers",
       "walt disney",
       "1977"
+    ]
+  },
+  {
+    "title": "The Sword in the Stone (1963)",
+    "url": "/the-sword-in-the-stone-1963",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a7ceee7be15551bd6c191cb/1786572519736/TSITS_Wart_Drawing_D82.png",
+    "movie": "",
+    "studio": "Walt Disney",
+    "year": "1963",
+    "keywords": [
+      "the sword in the stone (1963)",
+      "walt disney",
+      "1963"
+    ]
+  },
+  {
+    "title": "Wart Production Drawing (D-82)",
+    "url": "/wart-production-drawing-d-82",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a7ceee7be15551bd6c191cb/1786572519736/TSITS_Wart_Drawing_D82.png",
+    "movie": "The Sword in the Stone",
+    "studio": "Walt Disney",
+    "year": "1963",
+    "keywords": [
+      "wart production drawing (d-82)",
+      "the sword in the stone",
+      "walt disney",
+      "1963"
     ]
   },
   {
