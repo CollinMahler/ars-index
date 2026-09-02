@@ -3692,5 +3692,32 @@
       "walt disney",
       "creeper"
     ]
+  },
+  {
+    "title": "Walt Disney's Disneyland (1954 - 1958)",
+    "url": "/walt-disneys-disneyland-1954-1958",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a974576cd43a73cac5286fb/1788298614554/WDD_DW_DONALD_425_Cel.png",
+    "movie": "",
+    "studio": "Walt Disney",
+    "year": "1954 - 1958",
+    "keywords": [
+      "walt disney's disneyland (1954 - 1958)",
+      "walt disney",
+      "1954 - 1958"
+    ]
+  },
+  {
+    "title": "The Voice of Child Psychology Production Cel",
+    "url": "/the-voice-of-child-psychology-production-cel",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a974576cd43a73cac5286fb/1788298614554/WDD_DW_DONALD_425_Cel.png",
+    "movie": "Walt Disney's Disneyland",
+    "studio": "Walt Disney",
+    "year": "1958",
+    "keywords": [
+      "the voice of child psychology production cel",
+      "walt disney's disneyland",
+      "walt disney",
+      "1958"
+    ]
   }
 ]
