@@ -1889,6 +1889,33 @@
     ]
   },
   {
+    "title": "Lady and the Tramp (1955)",
+    "url": "/lady-and-the-tramp-1955",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6aa17271a4c371364f3ed0b2/1788965489452/LATT_Tramp_Drawing_14.png",
+    "movie": "",
+    "studio": "Walt Disney",
+    "year": "1955",
+    "keywords": [
+      "lady and the tramp (1955)",
+      "walt disney",
+      "1955"
+    ]
+  },
+  {
+    "title": "Tramp Production Drawing (14)",
+    "url": "/tramp-production-drawing-14",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6aa17271a4c371364f3ed0b2/1788965489452/LATT_Tramp_Drawing_14.png",
+    "movie": "Lady and the Tramp",
+    "studio": "Walt Disney",
+    "year": "1955",
+    "keywords": [
+      "tramp production drawing (14)",
+      "lady and the tramp",
+      "walt disney",
+      "1955"
+    ]
+  },
+  {
     "title": "Pinocchio (1940)",
     "url": "/pinocchio-1940",
     "image": "https://images.squarespace-cdn.com/content/v1/696e7f9b5a5d6f32257f6443/2b14848b-1d0e-4e02-b3ec-a0092be2b64d/P_PINOCCHIO_Drawing_D101A.png",
@@ -1912,7 +1939,9 @@
       "stromboli production drawing (c60)",
       "pinocchio",
       "walt disney",
-      "1940"
+      "1940",
+      "vladimir bill tytla",
+      "robert w. bob carlson"
     ]
   },
   {
@@ -3805,6 +3834,20 @@
     ]
   },
   {
+    "title": "Robert W. 'Bob' Carlson",
+    "url": "/robert-w-bob-carlson",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/69fd68caf78f5658027ba561/1778215114894/P_STROMBOLI_Drawing_C60.png",
+    "movie": "",
+    "studio": "",
+    "year": "",
+    "keywords": [
+      "robert w bob carlson",
+      "pinocchio",
+      "walt disney",
+      "stromboli"
+    ]
+  },
+  {
     "title": "Vladimir 'Bill' Tytla",
     "url": "/vladimir-bill-tytla",
     "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6a9cea3fcd0b135e2a975f94/1788668479859/F_Chernabog_Drawing_208.png",
@@ -3814,8 +3857,10 @@
     "keywords": [
       "vladimir bill tytla",
       "fantasia",
+      "pinocchio",
       "walt disney",
-      "chernabog"
+      "chernabog",
+      "stromboli"
     ]
   },
   {
