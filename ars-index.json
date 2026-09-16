@@ -4079,5 +4079,43 @@
       "walt disney",
       "1958"
     ]
+  },
+  {
+    "title": "Warner Bros.",
+    "url": "/warner-bros",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6aaac07a8bd3e37cc3e4543e/1789575290471/MM_TATB_Sylvester_Cel_22.png",
+    "movie": "",
+    "studio": "",
+    "year": "",
+    "keywords": [
+      "warner bros"
+    ]
+  },
+  {
+    "title": "Tweety and the Beanstalk (1957)",
+    "url": "/tweety-and-the-beanstalk-1957",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6aaac07a8bd3e37cc3e4543e/1789575290471/MM_TATB_Sylvester_Cel_22.png",
+    "movie": "",
+    "studio": "Warner Bros.",
+    "year": "1957",
+    "keywords": [
+      "tweety and the beanstalk (1957)",
+      "warner bros",
+      "1957"
+    ]
+  },
+  {
+    "title": "Sylvester Production Cel (22)",
+    "url": "/sylvester-production-cel-22",
+    "image": "https://static1.squarespace.com/static/696e7f9b5a5d6f32257f6443/t/6aaac07a8bd3e37cc3e4543e/1789575290471/MM_TATB_Sylvester_Cel_22.png",
+    "movie": "Tweety and the Beanstalk",
+    "studio": "Warner Bros.",
+    "year": "1957",
+    "keywords": [
+      "sylvester production cel (22)",
+      "tweety and the beanstalk",
+      "warner bros",
+      "1957"
+    ]
   }
 ]
